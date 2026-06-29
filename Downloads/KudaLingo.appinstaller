@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://kudasoft-com.github.io/Kuda-Lingo-Releases/Binaries/KudaLingo.appinstaller"
+	Uri="https://kudasoft-com.github.io/Kuda-Lingo-Releases/Installer/KudaLingo.appinstaller"
 	Version="0.4.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="Kudasoft.KudaLingo"
 		Version="0.4.0.0"
 		Publisher="CN=Kudasoft"
-		Uri="https://kudasoft-com.github.io/Kuda-Lingo-Releases/Binaries/KudaLingo_0.4.0.0/KudaLingo_0.4.0.0_x64.msixbundle" />
+		Uri="https://github.com/Kudasoft-com/Kuda-Lingo-Releases/releases/latest/download/KudaLingo_x64.msix" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="24" />
