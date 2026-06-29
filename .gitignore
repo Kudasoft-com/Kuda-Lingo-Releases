@@ -1,0 +1,5 @@
+# Private signing keys
+*.pfx
+
+# Visual Studio temporary certificates
+TemporaryKey.pfx
