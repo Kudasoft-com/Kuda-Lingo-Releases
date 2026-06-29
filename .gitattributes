@@ -1,0 +1,14 @@
+# Auto detect text files
+* text=auto
+
+# XML files
+*.appinstaller text eol=lf
+
+# Certificates
+*.cer binary
+
+# MSIX packages
+*.msix binary
+*.msixbundle binary
+*.appx binary
+*.appxbundle binary
