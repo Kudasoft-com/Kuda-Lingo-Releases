@@ -6,7 +6,7 @@
 		Name="Kudasoft.KudaLingo"
 		Version="0.4.0.0"
 		Publisher="CN=Kudasoft"
-		Uri="https://github.com/Kudasoft-com/Kuda-Lingo-Releases/releases/latest/download/KudaLingo_x64.msix" />
+		Uri="https://github.com/Kudasoft-com/Kuda-Lingo-Releases/releases/latest/download/KudaLingo.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="24" />
